@@ -1,0 +1,11 @@
+project:
+  name: 'testing_showcase'
+  owner: 'ISA'
+  teamId: 'testing_showcase'
+  identities: {}
+  notifications: {}
+  members:
+    member1:
+      name: 'Jorge'
+      surname: 'Florentino' 
+      githubUsername: 'jorgefl8'
