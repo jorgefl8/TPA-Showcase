@@ -4,7 +4,6 @@ project:
   teamId: 'testing_showcase'
   identities: {}
   notifications: {}
-  joinCode: '123'
   members:
     member1:
       name: 'Jorge'
